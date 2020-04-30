@@ -133,6 +133,6 @@ p {
   border-radius: 50%;
 }
 
-#blog:nth-child(odd) {
+#blog-post:nth-child(odd) {
   background-color: lightgrey;
 }
